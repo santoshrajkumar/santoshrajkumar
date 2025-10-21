@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Santosh Rajkumar  
 
 🎓 **Ph.D. Student in Mechanical Engineering**  
-**The Ohio State University · SOAR Lab (Systems Optimization, Autonomy & Robotics)**  
+**The Ohio State University · SOAR Lab**  
 
 ---
 
