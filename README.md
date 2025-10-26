@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Connect
-[💼 LinkedIn](https://www.linkedin.com/in/santoshrajkumar/) · [📄 Google Scholar](https://scholar.google.com/citations?user=) · [📧 Email](mailto:santosh.rajkumar@osu.edu)
+[💼 LinkedIn](https://www.linkedin.com/in/santoshmrajkumar/) · [📄 Google Scholar](https://scholar.google.com/citations?user=) · [📧 Email](mailto:santosh.rajkumar@osu.edu)
 
 ---
 
