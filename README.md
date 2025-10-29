@@ -2,7 +2,7 @@
 
 🎓 **Ph.D. Student in Mechanical Engineering**  
 **The Ohio State University · SOAR Lab**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshrajkumar&show_icons=true&theme=buefy)
+
 ---
 
 ## 🚀 Research Highlights
