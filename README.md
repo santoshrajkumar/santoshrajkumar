@@ -10,6 +10,10 @@
   *Accepted in IEEE Robotics & Automation Letters (RA-L), 2025*  
   🔗 [GitHub Repo](https://github.com/santoshrajkumar/kq-lmpc-quadrotor) · [Preprint](https://arxiv.org/abs/2409.12374)
 
+- 🧠 **kEDMD-DDE** — Data-driven Learning of Nonlinear Delay Differential Equations with error guarantees  
+  *Accepted in 2026 65th IEEE Conference on Decision and Control*  
+  🔗 [GitHub Repo](https://github.com/santoshrajkumar/koopman-dde-kEDMD) · [Preprint](https://www.researchgate.net/publication/403467584_On_Data-Driven_Koopman_Representations_of_Nonlinear_Delay_Differential_Equations)
+
 ---
 
 ## 🌐 Connect
