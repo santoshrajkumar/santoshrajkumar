@@ -7,7 +7,7 @@
 
 ## 🚀 Research Highlights
 - 🧠 **KQ-LMPC** — Real-Time Koopman Linear MPC for Quadrotors on SE(3)  
-  *Accepted in IEEE Robotics & Automation Letters (RA-L), 2025*  
+  *Accepted in IEEE Robotics & Automation Letters (RA-L)  2025 & ICRA 2026*  
   🔗 [GitHub Repo](https://github.com/santoshrajkumar/kq-lmpc-quadrotor) · [Preprint](https://arxiv.org/abs/2409.12374)
 
 - 🧠 **kEDMD-DDE** — Data-driven Learning of Nonlinear Delay Differential Equations with error guarantees  
